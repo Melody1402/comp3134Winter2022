@@ -1,0 +1,121 @@
+Domain name: hostpapa.ca
+IPv4 address for hostpapa.ca
+Domain Name Server IP: 104.18.19.159
+
+IP Address Location Information for 104.18.19.159
+
+City: San Francisco
+State: California
+Country: United States of America
+Postal Code: 94107
+Time Zone: -08:00
+Host Info for 104.18.19.159
+
+ASN: 13335
+ISP: CloudFlare Inc.
+Host Name: 104.18.19.159
+Domain: cloudflare.com
+Proxy Check Info for 104.18.19.159
+
+Proxy: Yes
+DCH
+------------------------------------------
+Domain name: whc.ca
+
+IPv4 address for whc.ca
+Domain Name Server IP: 158.69.149.142
+IP Address Location Information for 158.69.149.142
+
+City: Montreal
+State: Quebec
+Country: Canada
+Postal Code: H1A 0A1
+Time Zone: -05:00
+Host Info for 158.69.149.142
+
+ASN: 16276
+ISP: OVH Hosting Inc.
+Host Name: whc.ca
+Domain: ovh.com
+Proxy Check Info for 158.69.149.142
+
+Proxy: Yes
+DCH
+
+------------------------------------------
+Domain name: ionos.com
+
+IPv4 address for ionos.com
+Domain Name Server IP: 74.208.255.134
+
+IP Address Location Information for 74.208.255.134
+
+City: Chesterbrook
+State: Pennsylvania
+Country: United States of America
+Postal Code: 19087
+Time Zone: -05:00
+Host Info for 74.208.255.134
+
+ASN: 8560
+ISP: IONOS Inc.
+Host Name: ionos.com
+Domain: ionos.com
+Proxy Check Info for 74.208.255.134
+
+Proxy: Yes
+DCH
+
+------------------------------------------
+Domain name: godaddy.com
+
+IPv4 address for godaddy.com
+Domain Name Server IP: 208.109.192.70
+IP Address Location Information for 208.109.192.70
+
+City: Scottsdale
+State: Arizona
+Country: United States of America
+Postal Code: 85260
+Time Zone: -07:00
+Host Info for 208.109.192.70
+
+ASN: 26496
+ISP: GoDaddy.com LLC
+Host Name: ip-208-109-192-70.ip.secureserver.net
+Domain: godaddy.com
+Proxy Check Info for 208.109.192.70
+
+Proxy: Yes
+DCH
+------------------------------------------
+Domain Name: dell.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 143.166.135.105
+
+Geolocation: US (United States), TX, Texas, 78682 Round Rock - Google Maps
+
+Reverse DNS entry: not found
+
+Domain Check
+
+Domain Name: dell.com
+
+Top Level Domain: COM (Commercial TLD)
+
+Domain Name: DELL.COM
+Registry Domain ID: 1978972_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net
+Updated Date: 2018-04-16T21:36:51Z
+Creation Date: 1988-11-22T05:00:00Z
+Registry Expiry Date: 2024-11-21T05:00:00Z
+Registrar: SafeNames Ltd.
+Registrar IANA ID: 447
+
+
+------------------------------------------

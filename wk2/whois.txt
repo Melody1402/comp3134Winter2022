@@ -1,0 +1,409 @@
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2021-10-23T15:05:12Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2022-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: 
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: 
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: 
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+<!------------------------------------->
+Domain Name: facebook.com
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+        http://www.registrarsafe.com
+Updated Date: 2021-10-18T18:07:40+00:00
+        2021-10-18
+Creation Date: 1997-03-29T05:00:00+00:00
+        1997-03-29
+Registrar Registration Expiration Date: 2031-03-30T04:00:00+00:00
+        2031-03-30
+Registrar: RegistrarSafe, LLC
+Sponsoring Registrar IANA ID: 3237
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 16503087004
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY (DT)
+Registrant Organization: Facebook, Inc.
+Registrant Street: 1601 Willow Rd
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: us
+Registrant Phone: 16505434800
+Registrant Phone Ext: 
+Registrant Fax: 16505434800
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY (DT)
+Admin Organization: Facebook, Inc.
+Admin Street: 1601 Willow Rd
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: us
+Admin Phone: REDACTED FOR PRIVACY (DT)
+Admin Phone Ext: 
+Admin Fax: REDACTED FOR PRIVACY (DT)
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY (DT)
+Tech Organization: Facebook, Inc.
+Tech Street: 1601 Willow Rd
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: us
+Tech Phone: REDACTED FOR PRIVACY (DT)
+Tech Phone Ext: 
+Tech Fax: REDACTED FOR PRIVACY (DT)
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        a.ns.facebook.com
+        b.ns.facebook.com
+        c.ns.facebook.com
+        d.ns.facebook.com
+DNSSEC: unsigned
+
+
+<!------------------------------------->
+Domain Name: instagram.com
+Registry Domain ID: 121748357_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+        http://www.registrarsafe.com
+Updated Date: 2021-11-08T21:56:06+00:00
+        2021-11-08
+Creation Date: 2004-06-04T13:37:18+00:00
+        2004-06-04
+Registrar Registration Expiration Date: 2031-06-04T13:37:18+00:00
+        2031-06-04
+Registrar: RegistrarSafe, LLC
+Sponsoring Registrar IANA ID: 3237
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 16503087004
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY (DT)
+Registrant Organization: Instagram LLC
+Registrant Street: 1601 Willow Rd
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: us
+Registrant Phone: 16505434800
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY (DT)
+Admin Organization: Instagram LLC
+Admin Street: 1601 Willow Rd
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: us
+Admin Phone: REDACTED FOR PRIVACY (DT)
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY (DT)
+Tech Organization: Instagram LLC
+Tech Street: 1601 Willow Rd
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: us
+Tech Phone: REDACTED FOR PRIVACY (DT)
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        a.ns.instagram.com
+        b.ns.instagram.com
+        c.ns.instagram.com
+        d.ns.instagram.com
+
+
+
+        <!------------------------------------->
+DNSSEC: unsignedDomain Name: twitter.com
+Registry Domain ID: 18195971_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+        http://cscdbs.com
+Updated Date: 2022-01-17T01:08:20+00:00
+        2022-01-17
+Creation Date: 2000-01-21T11:28:17+00:00
+        2000-01-21
+Registrar Registration Expiration Date: 2023-01-21T16:28:17+00:00
+        2023-01-21
+Registrar: CSC CORPORATE DOMAINS, INC.
+        CSC Corporate Domains, Inc.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 18887802723
+Status: 
+        clientTransferProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Twitter, Inc.
+Registrant Organization: Twitter, Inc.
+Registrant Street: 1355 Market Street
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94103
+Registrant Country: us
+Registrant Phone: 14152229670
+Registrant Phone Ext: 
+Registrant Fax: 14152220922
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY (DT)
+Admin Organization: Twitter, Inc.
+Admin Street: 1355 Market Street
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94103
+Admin Country: us
+Admin Phone: REDACTED FOR PRIVACY (DT)
+Admin Phone Ext: 
+Admin Fax: REDACTED FOR PRIVACY (DT)
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY (DT)
+Tech Organization: Twitter, Inc.
+Tech Street: 1355 Market Street
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94103
+Tech Country: us
+Tech Phone: REDACTED FOR PRIVACY (DT)
+Tech Phone Ext: 
+Tech Fax: REDACTED FOR PRIVACY (DT)
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        a.r06.twtrdns.net
+        b.r06.twtrdns.net
+        c.r06.twtrdns.net
+        d.r06.twtrdns.net
+        d01-01.ns.twtrdns.net
+        d01-02.ns.twtrdns.net
+        ns3.p34.dynect.net
+        ns4.p34.dynect.net
+DNSSEC: unsigned
+
+
+
+
+
+
+<!------------------------------------->
+Domain Name: apple.com
+Registry Domain ID: 1225976_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+        http://cscdbs.com
+Updated Date: 2021-02-16T01:26:20+00:00
+        2021-10-05
+Creation Date: 1987-02-19T00:00:00+00:00
+        1987-02-19
+Registrar Registration Expiration Date: 2022-02-20T05:00:00+00:00
+        2022-02-20
+Registrar: CSC CORPORATE DOMAINS, INC.
+        CSC Corporate Domains, Inc.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 18887802723
+Status: 
+        clientTransferProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY (DT)
+Registrant Organization: Apple Inc.
+Registrant Street: One Apple Park Way
+Registrant City: Cupertino
+Registrant State/Province: CA
+Registrant Postal Code: 95014
+Registrant Country: us
+Registrant Phone: 14089961010
+Registrant Phone Ext: 
+Registrant Fax: 14089741560
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY (DT)
+Admin Organization: Apple Inc.
+Admin Street: One Apple Park Way
+Admin City: Cupertino
+Admin State/Province: CA
+Admin Postal Code: 95014
+Admin Country: us
+Admin Phone: REDACTED FOR PRIVACY (DT)
+Admin Phone Ext: 
+Admin Fax: REDACTED FOR PRIVACY (DT)
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY (DT)
+Tech Organization: Apple Inc.
+Tech Street: One Apple Park Way
+Tech City: Cupertino
+Tech State/Province: CA
+Tech Postal Code: 95014
+Tech Country: us
+Tech Phone: REDACTED FOR PRIVACY (DT)
+Tech Phone Ext: 
+Tech Fax: REDACTED FOR PRIVACY (DT)
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        a.ns.apple.com
+        b.ns.apple.com
+        c.ns.apple.com
+        d.ns.apple.com
+DNSSEC: unsigned

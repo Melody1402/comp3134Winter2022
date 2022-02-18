@@ -1,0 +1,54 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap godaddy.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-18 08:50 UTC
+Stats: 0:00:20 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.75% done; ETC: 08:55 (0:04:36 remaining)
+Stats: 0:00:22 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 6.88% done; ETC: 08:56 (0:04:58 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.75% done; ETC: 08:56 (0:05:21 remaining)
+Stats: 0:00:30 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 8.00% done; ETC: 08:56 (0:05:45 remaining)
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 1000 whc.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-18 08:51 UTC
+Nmap scan report for whc.ca (158.69.149.142)
+Host is up (0.0085s latency).
+
+PORT     STATE    SERVICE
+1000/tcp filtered cadlock
+
+Nmap done: 1 IP address (1 host up) scanned in 0.35 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 1-1000 ionos.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-18 08:51 UTC
+Stats: 0:00:03 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 66.85% done; ETC: 08:51 (0:00:02 remaining)
+Nmap scan report for ionos.com (74.208.255.134)
+Host is up (0.024s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.77 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmpa -F google.com
+
+Command 'nmpa' not found, did you mean:
+
+  command 'nmap' from snap nmap (7.92)
+  command 'nmap' from deb nmap (7.80+dfsg1-2build1)
+
+See 'snap info <snapname>' for additional versions.
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-18 08:52 UTC
+Nmap scan report for google.com (142.251.41.46)
+Host is up (0.0021s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:804::200e
+rDNS record for 142.251.41.46: yyz12s08-in-f14.1e100.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.92 seconds
+

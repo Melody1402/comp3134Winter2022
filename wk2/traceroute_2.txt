@@ -1,0 +1,28 @@
+(base) melody@Melodys-iMac ~ % traceroute amazon.com
+traceroute: Warning: amazon.com has multiple addresses; using 176.32.103.205
+traceroute to amazon.com (176.32.103.205), 64 hops max, 52 byte packets
+ 1  mynetwork.home (192.168.2.1)  11.958 ms  3.753 ms  3.962 ms
+ 2  10.50.44.191 (10.50.44.191)  3.988 ms  5.302 ms  3.868 ms
+ 3  * * *
+ 4  tcore3-toronto63_hu2/3/0/3_38.net.bell.ca (64.230.59.182)  8.948 ms
+    tcore4-toronto21_hu2/5/0/3_35.net.bell.ca (64.230.59.188)  6.960 ms
+    tcore3-toronto21_hu2/5/0/3_35.net.bell.ca (64.230.59.186)  7.367 ms
+ 5  tcore3-toronto63-bundle-ether44.net.bell.ca (142.124.127.156)  11.448 ms
+    tcore3-toronto21-bundle-ether38.net.bell.ca (142.124.127.148)  10.395 ms
+    tcore4-toronto63-bundle-ether44.net.bell.ca (142.124.127.206)  4.264 ms
+ 6  * tcore2-torontoxn_ae2.net.bell.ca (64.230.51.160)  15.861 ms *
+ 7  bx3-torontoxn_hundredgige0-2-0-0.net.bell.ca (64.230.97.147)  17.265 ms  5.149 ms
+    bx3-torontoxn_hundredgige0-1-0-0.net.bell.ca (64.230.97.145)  8.117 ms
+ 8  99.82.178.222 (99.82.178.222)  8.810 ms  4.763 ms  11.379 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  52.93.29.34 (52.93.29.34)  34.001 ms
+    52.93.29.24 (52.93.29.24)  31.318 ms
+    52.93.29.22 (52.93.29.22)  29.480 ms
