@@ -1,0 +1,44 @@
+Last login: Fri Apr  8 15:09:57 on ttys000
+(base) melody@Melodys-iMac ~ % ssh root@165.227.45.244 -p 2222
+ssh root@165.227.45.244's password: 
+Welcome to Ubuntu 20.04.2 LTS (GNU/Linux 5.4.0-94-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Thurs Apr 7 01:16:31 UTC 2022
+
+  System load:  0.0                Users logged in:       1
+  Usage of /:   16.7% of 24.06GB   IPv4 address for eth0: 165.22.235.67
+  Memory usage: 63%                IPv4 address for eth0: 10.20.0.5
+  Swap usage:   0%                 IPv4 address for eth1: 10.118.0.2
+  Processes:    125
+
+85 updates can be applied immediately.
+5 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+
+*** System restart required ***
+********************************************************************************
+
+Welcome to DigitalOcean's 1-Click LAMP Droplet.
+To keep this Droplet secure, the UFW firewall is enabled.
+All ports are BLOCKED except 22 (SSH), 80 (HTTP), and 443 (HTTPS).
+
+In a web browser, you can view:
+ * The LAMP 1-Click Quickstart guide: https://do.co/3gY97ha#start
+ * Your LAMP website: http://165.22.235.67
+
+On the server:
+ * The default web root is located at /var/www/html
+ * The MySQL root password is saved in /root/.digitalocean_password
+ * Certbot is preinstalled. Run it to configure HTTPS. See
+   https://do.co/3gY97ha#enable-https for more detail.
+
+For help and more information, visit https://do.co/3gY97ha
+
+********************************************************************************
+To delete this message of the day: rm -rf /etc/update-motd.d/99-one-click
+
