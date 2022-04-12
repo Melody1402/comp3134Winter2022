@@ -1,0 +1,2 @@
+step 1: use file_exists to check the $path is existed or not.
+step 2: use baseline to prevent file and folders before html directory. 
