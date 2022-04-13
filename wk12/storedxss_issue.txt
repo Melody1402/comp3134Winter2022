@@ -1,0 +1,1 @@
+Php coudnt echo the txt file content it shows SyntaxError: Invalid character '\u201d'
